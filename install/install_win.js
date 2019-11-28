@@ -1,0 +1,1 @@
+module.exports=function(){console.log('You cannot use this module on windows.')}
